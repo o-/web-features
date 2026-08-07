@@ -1,0 +1,4 @@
+name: Bytes import attributes
+description: 'Module `import … with { type: "bytes" }` statements load binary data as a Uint8Array.'
+spec: https://tc39.es/proposal-import-bytes/
+group: js-modules

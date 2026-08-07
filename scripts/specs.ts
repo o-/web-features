@@ -243,6 +243,10 @@ const defaultAllowlist: allowlistItem[] = [
     [
         "https://github.com/whatwg/html/pull/9546",
         "Allowed because the <input type=\"checkbox\" switch> feature is not yet in a formal spec. Remove this exception when a formal spec is available."
+    ],
+    [
+        "https://tc39.es/proposal-import-bytes/",
+        "Allowed because import bytes proposal is not yet in browser-specs."
     ]
 ];
 
