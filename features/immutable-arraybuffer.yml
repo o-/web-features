@@ -1,0 +1,4 @@
+name: Immutable ArrayBuffer
+description: The `transferToImmutable()` and `sliceToImmutable()` methods of `ArrayBuffer` create a buffer whose contents cannot be modified, resized, or detached, as indicated by the `immutable` property.
+spec: https://tc39.es/proposal-immutable-arraybuffer/
+group: javascript

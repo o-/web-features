@@ -203,6 +203,10 @@ const defaultAllowlist: allowlistItem[] = [
     [
         "https://github.com/whatwg/html/pull/12758",
         "Allowed because it's shipping in Chrome. Replace with https://html.spec.whatwg.org/multipage/dynamic-markup-insertion.html#dom-parsing-and-serialization when above PR is merged."
+    ],
+    [
+        "https://tc39.es/proposal-immutable-arraybuffer/",
+        "Allowed because the immutable ArrayBuffer proposal is not yet in web-specs."
     ]
 ];
 
